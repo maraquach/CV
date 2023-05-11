@@ -15,32 +15,14 @@ title:
 
 
 ## Overview
-I am a graduate researcher in MRI engineering, with a focus on acquisition and post-processing pipelines. My thesis aims to leverage current advances in MRI hardware to make a non-invasive quantitative neuroimaging method called CEST useful in research and clinical contexts. I have experience in creating and implementing advanced processing pipelines to quantitative MRI data. Outside of research and technical work, I have some experience in early-stage start-up management and navigating the APAC medtech ecosystem, and extensive experience in mobilising peer groups to create effective policy changes for the safety of young people.
-
-## Currently
-
-PhD Candidate at University of Melbourne
-
-Research Assistant at Alfred Research Alliance
-
-Co-Founder at Vause Medical
-
-### Technical Specialisations
-
-Chemical Exchange Saturation Transfer (CEST)
-
-Quantitative Susceptibility Mapping (QSM)
-
-Diffusion-Weighted Imaging (DWI)
-
-
+I am a graduate researcher in MRI engineering, with a focus on acquisition and post-processing pipelines. My thesis aims to leverage current advances in MRI hardware to make a non-invasive quantitative neuroimaging method called CEST useful in research and clinical contexts. I have experience in creating and implementing advanced processing pipelines to quantitative MRI data. Outside of research and technical work, I have some experience in early-stage start-up management and navigating the APAC medtech ecosystem, and experience in mobilising peer groups to create effective policy changes for the safety of young people.
 
 ## Education
 
 `2022 - now`
 __University of Melbourne__
 - Doctor of Philosophy 
-- Department of Biomedical Engineering, Faculty of Engineering and Information Technology
+- Department of Biomedical Engineering
 - The Melbourne Brain Centre Imaging Unit
 - Thesis topic: CEST Neuroimaging at 7T
 - Supervisors: Prof Leigh A Johnston, Dr Myrte Strik, A/Prof David K Wright
@@ -55,11 +37,7 @@ __University of Melbourne__
 
 `2016 - 2019`
 __University of Melbourne__
-- Bachelor of Biomedicine
-- Major: Bioengineering Systems
-- Major project: Embedded driver fatigue detection and alert system based on physiological inputs
-
-
+- Bachelor of Biomedicine, Bioengineering Systems
 
 ## Awards & Scholarships
 
@@ -76,60 +54,45 @@ Melbourne School of Engineering Scholarship
 May Dunn Scholarship (Janet Clarke Hall)
 
 `2019`
-Fey Marles Scholarship for work toward social justice causes; Arts and Culture Award (Janet Clarke Hall)
+Fey Marles Scholarship for work toward social justice causes (Janet Clarke Hall)
 
 `2016 - 2018` Janet Clarke Hall Society Scholarship
 
 ## Professional experiences
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
 `Feb 2022 - now`
 __Alfred Research Alliance__
-- Research Assistant (Joint position between Alfred Health and Monash University)
-- Wright Preclinical Imaging Laboratory
+- Research Assistant, Wright Preclinical Imaging Laboratory
 - Performing advanced techniques to process and analyse preclinical and clinical neuroimaging data (in particular T2*, QSM, DTI, FBA, and tractography) for research into the aetiology and treatment of traumatic brain injury, Alzheimer's disease, motor neuron disease, and developmental speech disorders. 
 
 `Jun 2022 - now`
 __Vause Medical__
-- Co-Founder & CTO
-- Vause Medical is an early-stage start-up born from BioDesign Melbourne. We are currently supported by TRAM and the MedTech Actuator Accelerator, and are located in Melbourne Connect Level 2.
-- Managing design and implementation of product development phases for a novel training and medical device for lumbar punctures in newborns.
+- Co-Founder & CTO; Early-stage start-up born from BioDesign Melbourne. We are currently supported by TRAM and the MedTech Actuator Accelerator.
+- Managing product development phases for a novel training and medical device for lumbar punctures in newborns.
 - Co-creating commercialisation strategies encompassing regulatory, IP, customer validation, and deployment.
-
-
-`2019 - 2021`
-__University of Melbourne__
-- Student Services Delivery Assistant
-- Provided administrative assistance for university students through means of in-person support, online correspondence, and creating or hosting informative webinars.
 
 
 `Apr - Nov 2019`
 __University of Melbourne/BUPA__
 - Health Promotion Intern
-- Organised and actioned tertiary-student-related health & wellbeing campaigns on campus and through social media with high rates of participation and positive feedback. Campaigns included dental health, exam wellbeing, and travel health and safety.
+- Organised and actioned tertiary-student-related health & wellbeing campaigns on campus and through social media with high rates of participation and positive feedback.
 - Liased and worked with different teams across the University and external parties. 
 
 
 ## Volunteering experience
 `2020 - 2021`
-__Women In Technology, Melbourne University__
-- President
+__Women In Technology, Melbourne University__, President
 
 `2019 - 2020`
-__Intercollegiate Council, Melbourne University__
-- Secretary
+__Intercollegiate Council, Melbourne University__, Secretary
   
-__Intercollegiate Pride Network, Melbourne University__
-- Co-founder
+__Intercollegiate Pride Network, Melbourne University__, Co-founder
 
 `2018 - 2019`
-__Intercollegiate Activties Council, Melbourne University__
-- President
+__Intercollegiate Activties Council, Melbourne University__, President
 
 `2016 - 2017`
-__Janet Clarke Hall Student Club__
-- Executive Member
+__Janet Clarke Hall Student Club__, Executive Member
   
 <!-- ### Footer
 
