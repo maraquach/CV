@@ -70,8 +70,7 @@ __Alfred Research Alliance__
 
 `Jun 2022 - now`
 __Vause Medical__
-- Co-Founder & CTO
-- Early-stage start-up born from BioDesign Melbourne. We are currently supported by TRAM and the MedTech Actuator Accelerator.
+- Co-Founder & CTO; Early-stage start-up born from BioDesign Melbourne. We are currently supported by TRAM and the MedTech Actuator Accelerator.
 - Managing design and implementation of product development phases for a novel training and medical device for lumbar punctures in newborns.
 - Co-creating commercialisation strategies encompassing regulatory, IP, customer validation, and deployment.
 
