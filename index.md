@@ -84,7 +84,7 @@ __University of Melbourne__
 `Apr - Nov 2019`
 __University of Melbourne/BUPA__
 - Health Promotion Intern
-- Organised and actioned tertiary-student-related health & wellbeing campaigns on campus and through social media with high rates of participation and positive feedback. Campaigns included dental health, exam wellbeing, and travel health and safety.
+- Organised and actioned tertiary-student-related health & wellbeing campaigns on campus and through social media with high rates of participation and positive feedback.
 - Liased and worked with different teams across the University and external parties. 
 
 
