@@ -15,25 +15,7 @@ title:
 
 
 ## Overview
-I am a graduate researcher in MRI engineering, with a focus on acquisition and post-processing pipelines. My thesis aims to leverage current advances in MRI hardware to make a non-invasive quantitative neuroimaging method called CEST useful in research and clinical contexts. I have experience in creating and implementing advanced processing pipelines to quantitative MRI data. Outside of research and technical work, I have some experience in early-stage start-up management and navigating the APAC medtech ecosystem, and extensive experience in mobilising peer groups to create effective policy changes for the safety of young people.
-
-## Currently
-
-PhD Candidate at University of Melbourne
-
-Research Assistant at Alfred Research Alliance
-
-Co-Founder at Vause Medical
-
-### Technical Specialisations
-
-Chemical Exchange Saturation Transfer (CEST)
-
-Quantitative Susceptibility Mapping (QSM)
-
-Diffusion-Weighted Imaging (DWI)
-
-
+I am a graduate researcher in MRI engineering, with a focus on acquisition and post-processing pipelines. My thesis aims to leverage current advances in MRI hardware to make a non-invasive quantitative neuroimaging method called CEST useful in research and clinical contexts. I have experience in creating and implementing advanced processing pipelines to quantitative MRI data. Outside of research and technical work, I have some experience in early-stage start-up management and navigating the APAC medtech ecosystem, and experience in mobilising peer groups to create effective policy changes for the safety of young people.
 
 ## Education
 
@@ -57,9 +39,6 @@ __University of Melbourne__
 __University of Melbourne__
 - Bachelor of Biomedicine
 - Major: Bioengineering Systems
-- Major project: Embedded driver fatigue detection and alert system based on physiological inputs
-
-
 
 ## Awards & Scholarships
 
@@ -86,14 +65,13 @@ Fey Marles Scholarship for work toward social justice causes; Arts and Culture A
 
 `Feb 2022 - now`
 __Alfred Research Alliance__
-- Research Assistant (Joint position between Alfred Health and Monash University)
-- Wright Preclinical Imaging Laboratory
+- Research Assistant, Wright Preclinical Imaging Laboratory
 - Performing advanced techniques to process and analyse preclinical and clinical neuroimaging data (in particular T2*, QSM, DTI, FBA, and tractography) for research into the aetiology and treatment of traumatic brain injury, Alzheimer's disease, motor neuron disease, and developmental speech disorders. 
 
 `Jun 2022 - now`
 __Vause Medical__
 - Co-Founder & CTO
-- Vause Medical is an early-stage start-up born from BioDesign Melbourne. We are currently supported by TRAM and the MedTech Actuator Accelerator, and are located in Melbourne Connect Level 2.
+- Early-stage start-up born from BioDesign Melbourne. We are currently supported by TRAM and the MedTech Actuator Accelerator.
 - Managing design and implementation of product development phases for a novel training and medical device for lumbar punctures in newborns.
 - Co-creating commercialisation strategies encompassing regulatory, IP, customer validation, and deployment.
 
