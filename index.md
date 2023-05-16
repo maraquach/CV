@@ -2,16 +2,18 @@
 layout: cv
 title: 
 ---
-# Mara Quach
+# **Mara Quach**
 
 
 <div id="webaddress">
-<a href="mara.quach1@student.unimelb.edu.au">mara.quach1@student.unimelb.edu.au</a>
+E: <a href="mara.quach1@student.unimelb.edu.au">mara.quach1@student.unimelb.edu.au</a>
 </div>
 <div id="webaddress">
-<a href="https://au.linkedin.com/in/maraquach">linkedin.com/in/maraquach</a>
+L:<a href="https://au.linkedin.com/in/maraquach">linkedin.com/in/maraquach</a>
+<div id="webaddress">
 </div>
-
+ORCID: 0000-0001-5158-6724
+</div>
 
 
 ## Overview
@@ -22,7 +24,7 @@ I am a graduate researcher in MRI engineering, with a focus on acquisition and p
 `2022 - now`
 __University of Melbourne__
 - Doctor of Philosophy 
-- Department of Biomedical Engineering
+- Department of Biomedical Engineering, Faculty of Engineering & IT
 - The Melbourne Brain Centre Imaging Unit
 - Thesis topic: CEST Neuroimaging at 7T
 - Supervisors: Prof Leigh A Johnston, Dr Myrte Strik, A/Prof David K Wright
@@ -31,7 +33,7 @@ __University of Melbourne__
 __University of Melbourne__
 
 - Master of Engineering (with Distinction)
-- Specialisation: Biomedical engineering
+- Specialisation: Biomedical Engineering
 - Capstone topic: Non-invasive guidance system for neonatal lumbar punctures for timely and accurate diagnosis of childhood meningitis using AI and AR.
 - Supervisors: Prof David B Grayden, A/Prof Kwanghui Lim, Mr Simon Wilkins
 
@@ -42,7 +44,7 @@ __University of Melbourne__
 ## Awards & Scholarships
 
 `2022 - 2027`
-Melbourne Research Scholarship
+Melbourne Research Scholarship (Fee Offset & Stipend)
 
 `2021`
 Melbourne Business School SEMBA 2003 Award - Best commercialisation plan for a novel medical device
@@ -63,7 +65,7 @@ Fey Marles Scholarship for work toward social justice causes (Janet Clarke Hall)
 `Feb 2022 - now`
 __Alfred Research Alliance__
 - Research Assistant, Wright Preclinical Imaging Laboratory
-- Performing advanced techniques to process and analyse preclinical and clinical neuroimaging data (in particular T2*, QSM, DTI, FBA, and tractography) for research into the aetiology and treatment of traumatic brain injury, Alzheimer's disease, motor neuron disease, and developmental speech disorders. 
+- Performing advanced techniques to process and analyse preclinical and clinical neuroimaging data (in particular T<sub>2</sub><sup>*</sup>, QSM, DTI, FBA, and tractography) for research into the aetiology and treatment of traumatic brain injury, Alzheimer's disease, motor neuron disease, and developmental speech disorders. 
 
 `Jun 2022 - now`
 __Vause Medical__
@@ -79,7 +81,7 @@ __University of Melbourne/BUPA__
 - Liased and worked with different teams across the University and external parties. 
 
 
-## Volunteering experience
+## Volunteering experiences
 `2020 - 2021`
 __Women In Technology, Melbourne University__, President
 
@@ -96,6 +98,6 @@ __Janet Clarke Hall Student Club__, Executive Member
   
 <!-- ### Footer
 
-Last updated: 29 April 2023 -->
+Last updated: 16 May 2023 -->
 
 
