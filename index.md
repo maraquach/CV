@@ -43,6 +43,9 @@ __University of Melbourne__
 
 ## Awards & Scholarships
 
+`2023 - 2027` 
+Graeme Clark Institute Top-Up Scholarship
+
 `2022 - 2027`
 Melbourne Research Scholarship (Fee Offset & Stipend)
 
